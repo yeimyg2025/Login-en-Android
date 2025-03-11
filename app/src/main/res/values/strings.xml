@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Proyecto2025</string>
+    <string name="tvTituloMain">Iniciar Sesion</string>
+    <string name="btnInicioSesion">Ingresar</string>
+    <string name="txtingresacorreo">Tu correo electrónico</string>
+    <string name="edtingresacorreo">Ingresa tu correo</string>
+    <string name="txtingresacontraseña">Tu contraseña</string>
+    <string name="edtingresacontraseña">Ingresa tu contraseña</string>
+
+    <string name="txtnotengocuenta">¿No Tienes una cuenta?</string>
+</resources>
